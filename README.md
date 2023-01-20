@@ -7,10 +7,10 @@ This repository contains a collection of data science projects that showcase var
 - **Project 2:** Just the Basics - Strata 2013 After-party - Classification Models for Spam Detection in Email Communication
 - **Project 3:** Online Retail Customer Segmentation
 - **Project 4:** Restaurant Customer Reviews - Sentiment Analysis
-- **Project 4:** Skroutz Shops Greek Reviews, Sentiment Analysis
-- **Project 5:** Titanic - Machine Learning from Disaster
-- **Project 6:** USA Cars - Statistical Analysis
-- **Project 7:** Natural Language Processing with Disaster Tweets
+- **Project 5:** Skroutz Shops Greek Reviews, Sentiment Analysis
+- **Project 6:** Titanic - Machine Learning from Disaster
+- **Project 7:** USA Cars - Statistical Analysis
+- **Project 8:** Natural Language Processing with Disaster Tweets
 
 ## Dependencies
 - Python 3
