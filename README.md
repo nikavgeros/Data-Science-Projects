@@ -4,7 +4,7 @@ This repository contains a collection of data science projects that showcase var
 
 ## Project List
 - **Project 1:** House Prices - Advanced Regression Techniques
-- **Project 2:** Just the Basics - Strata 2013 After-party
+- **Project 2:** Just the Basics - Strata 2013 After-party - Classification Models for Spam Detection in Email Communication
 - **Project 3:** Online Retail Customer Segmentation
 - **Project 4:** Skroutz Shops Greek Reviews, Sentiment Analysis
 - **Project 5:** Titanic - Machine Learning from Disaster
@@ -24,12 +24,9 @@ This repository contains a collection of data science projects that showcase var
 ## Contributing
 Please feel free to contribute to this repository by submitting a pull request. If you find any issues or have suggestions, please open an issue.
 
-## License
-This repository is licensed under the [LICENSE](https://github.com/yourusername/yourrepo/blob/master/LICENSE) file.
-
 ## Acknowledgements
 - Data sources used in the projects
 - Any other relevant acknowledgements
 
 ## Contact
-For any questions or inquiries, please contact me at [email or social media handle].
+For any questions or inquiries, please contact me at nik.avgeros@gmail.com.
