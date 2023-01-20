@@ -3,7 +3,7 @@
 This repository contains a collection of data science projects that showcase various skills and techniques in data analysis, visualization, and modeling.
 
 ## Project List
-- **Project 1:** House Prices - Advanced Regression Techniques
+- **Project 1:** House Prices - Advanced Regression Techniques and Text parsing
 - **Project 2:** Just the Basics - Strata 2013 After-party - Classification Models for Spam Detection in Email Communication
 - **Project 3:** Online Retail Customer Segmentation
 - **Project 4:** Skroutz Shops Greek Reviews, Sentiment Analysis
