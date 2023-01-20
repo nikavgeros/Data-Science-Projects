@@ -6,9 +6,10 @@ This repository contains a collection of data science projects that showcase var
 - **Project 1:** House Prices - Advanced Regression Techniques
 - **Project 2:** Just the Basics - Strata 2013 After-party
 - **Project 3:** Online Retail Customer Segmentation
-- **Project 4:** Titanic - Machine Learning from Disaster
-- **Project 5:** USA Cars
-- **Project 6:** Natural Language Processing with Disaster Tweets
+- **Project 4:** Skroutz Shops Greek Reviews, Sentiment Analysis
+- **Project 5:** Titanic - Machine Learning from Disaster
+- **Project 6:** USA Cars
+- **Project 7:** Natural Language Processing with Disaster Tweets
 
 ## Dependencies
 - Python 3
